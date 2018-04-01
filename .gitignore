@@ -1,0 +1,48 @@
+__clientTemp
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependencies
+node_modules/
+
+# Eclipse
+WebContent/
+.settings/
+.project
+.classpath
+
+# Mac
+.DS_Store
+
+# Webpack
+bundle.js*
+
+# Generated
+dist/
+.idea/
+backend/bin/
+
+#mocks
+mocks/
+
+#nginx
+nginx-1.12.0/
+
+#STS workspace
+RemoteSystemsTempFiles/
+Servers/
+.recommenders
+backend/out/
+
+# Android Studio
+*.iml
+android/.gradle
+android/local.properties
+android/.idea/
+android/.DS_Store
+android/build
+android/captures
+android/.externalNativeBuild
