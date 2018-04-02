@@ -35,8 +35,8 @@ And to make it user friendly, it has to be:
 
 **Generating Revenue:**
 -	Pay per Download
-~~-	Paid application?~~
-~~-	Advertisements?~~
+-	~~Paid application?~~
+-	~~Advertisements?~~
 -	In-app Freemiums?
 
 ## The App Design
