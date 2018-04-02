@@ -39,10 +39,5 @@ And to make it user friendly, it has to be:
 -	~~Advertisements?~~
 -	In-app Freemiums?
 
-## The App Design
-**Color:** Blue palette
-- Stands for communication and honesty
-- [Click here for some documentation that supports this claim.](http://www.artitudesdesign.com/blue-color-psychology/)
-
 ## Technical
 **Signing In:** ID and Password
