@@ -1,16 +1,16 @@
 ## Color
 
-** Blue **
+**Blue**
 
 Reflects communication, calm, trust
 
 
 ## Font - Typeface
 
-** Sans Serif **
+**Sans Serif**
 
 Clean, simple, straight-forward, contemporary, futuristic, neutral
 
-** Modern **
+**Modern**
 
 Elegance, intelligence, distinctiveness, smartness, determination, forward-looking ideology
