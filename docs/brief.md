@@ -29,7 +29,7 @@ And to make it user friendly, it has to be:
 
 **Mobile Platforms:** Andoid, iOS, Web
 	Coverage:
-	Desice support:
+	Device support:
 	Performance:
 
 **Generating Revenue:**
