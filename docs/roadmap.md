@@ -102,10 +102,23 @@
 - Delete calendar events
 - Send calendar notifications
 
+#### Memo
+
+- Create memo
+- Update memo
+- View memo
+- Delete memo
+
 ### Front-end
+
+#### Calendar
 
 - User can see a calendar with events
 - User can create, update, and delete events
+
+#### Memo
+
+- User can create, read, update, and delete memo
 
 ## Version 3
 
