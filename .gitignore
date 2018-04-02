@@ -46,3 +46,6 @@ android/.DS_Store
 android/build
 android/captures
 android/.externalNativeBuild
+
+#Non-code files
+assets/
