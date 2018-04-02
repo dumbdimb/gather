@@ -10,32 +10,33 @@ For younger parents, their problem is a little bit different. Most of young pare
 An integrated mobile app that has all of the solutions for the problems above would be the ideal mobile app. However, the mobile app should be very user friendly, especially towards elders and kids.
 
 The mobile app will include:
--	Chats and calls
--	Photos, audios, and videos sharing
--	Memo and to-do list sharing, reminders
--	GPS tracking system
+- Chats and calls
+- Photos, audios, and videos sharing
+- Memo, to-do list, reminders, and calendar sharing
+- GPS tracking system
+- Gaming
 
 And to make it user friendly, it has to be:
--	Simple and clean design
--	Should be light, fast responsive
--	Easy-to-read fonts.
+- Simple and clean design
+- Should be light, fast responsive
+- Easy-to-read fonts.
 
 ## Identifications
 
 **Target Users:** THE WHOLE FAMILY
--	Children (kids to adults)
--	Parents
--	Grandparents
+- Children (kids to adults)
+- Parents
+- Grandparents
 
-**Mobile Platforms:** Andoid, iOS, Web
-	Coverage:
-	Device support:
-	Performance:
+**Mobile Platforms:** Android, iOS, Web
+- Coverage:
+- Device support:
+- Performance:
 
 **Generating Revenue:**
 -	Pay per Download
--	Paid application?
--	Advertisements?
+~~-	Paid application?~~
+~~-	Advertisements?~~
 -	In-app Freemiums?
 
 ## The App Design
